@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @GHarper123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- - 👋 Hi, I'm @GHarper123
+- 💻 I'm interested in web development, software development, and cybersecurity
+- 🔐 I'm currently learning ethical hacking and penetration testing
+- 🌱 I'm continuously improving my skills in programming, networking, and information security
+- 🤝 I'm looking to collaborate on web development and cybersecurity projects
+- 📫 How to reach me: harpergerald41@gmail.com
+- 🔗 GitHub: https://github.com/GHarper123
+- ⚡ Fun fact: I've been training Taekwondo for 10+ years
 
-<!---
-GHarper123/GHarper123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Projects
+
+- 🌐 Personal Portfolio Website
+- 🏥 Hospital Website
+- 🔐 Animated Login Website
+- 👕 Mitumba Bale E-commerce Website
+
+### 🛠️ Skills & Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+- Netlify
+- Networking
+- Cybersecurity
+- Ethical Hacking
+- Penetration Testing
+
+### 🎯 Currently Learning
+
+- 🐍 Python
+- 🌐 Web Development
+- 🔐 Cybersecurity
+- 🕵️ Ethical Hacking & Penetration Testing
+- 🌐 Networking
+
+### 📊 My Goal
+
+To become a skilled software developer and cybersecurity professional by building real-world projects and continuously learning new technologies.
